@@ -142,7 +142,7 @@ Microsoft Purview allows us to perform certain operations (add/replace/remove) a
 
    ![bulk](./assets/5-14_bulk.jpg "bulk") 
 
-2. Hover your mouse over an item in the list to reveal the checkbox on the right-hand side. Select five items and click **View selected**.
+2. Hover your mouse over an item in the list to reveal the checkbox on the right-hand side. Select four items and click **View selected**.
 
     ![select](./assets/16-view_selected.jpg "select")
 
