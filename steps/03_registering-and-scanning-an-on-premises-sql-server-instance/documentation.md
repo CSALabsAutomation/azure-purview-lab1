@@ -52,7 +52,9 @@ Then you'll use Microsoft Purview to scan and classify that data.
 
 ![connect](./assets/7_connect.jpg "connect")
 
-8.	**Download RDP File** after the Suggested Method for Connecting is verified successfully.
+8.	**Download RDP File**.
+    
+    If the **port prerequisite not met** error has been shown, ignore it and proceed with the further steps.
 
 ![rdp](./assets/8_rdp.jpg "rdp")
 
